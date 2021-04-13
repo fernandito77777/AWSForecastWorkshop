@@ -104,5 +104,7 @@ Once it's done, we can now take a look at the prediction
 36. Click `Get Forecast`
     ![](../Image/Forecast/36.png)
 
+You will see the result of your forecast like below:
+    ![](../Image/Forecast/36-2.png)
 
 [BACK TO WORKSHOP GUIDE](../README.md)
