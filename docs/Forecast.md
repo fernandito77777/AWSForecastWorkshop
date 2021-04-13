@@ -94,14 +94,14 @@ Once it's done, we need to create the forecasts.
 It will create a forecast around 15 minutes.
 Once it's done, we can now take a look at the prediction
 
-31. Click "Lookup Forecast"
+31. Click `Lookup Forecast`
     ![](../Image/Forecast/31.png)
 
-32. In forecast lookup page, choose the forecast as "DemandRetailForecast"
-33. In start date, fill it with "2017/12/15"
-34. In end date, fill it with 2018/01/31"
-35. fill the Value of item_id as "1"
-36. Click "Get Forecast"
+32. In forecast lookup page, choose the forecast as `DemandRetailForecast`
+33. In start date, fill it with `2017/12/15`
+34. In end date, fill it with `2018/01/31`
+35. fill the Value of item_id as `1`
+36. Click `Get Forecast`
     ![](../Image/Forecast/36.png)
 
 
