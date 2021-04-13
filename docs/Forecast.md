@@ -57,6 +57,7 @@ On forecasting domain, each of the options only affecting the data schema, and n
     ![](../Image/Forecast/19.png)
 
 This process might take around 15 minutes to process.
+
 Once it's ready, it will display the `Active` status.
     ![](../Image/Forecast/19-2.png)
 
@@ -92,6 +93,7 @@ Once it's done, we need to create the forecasts.
     ![](../Image/Forecast/30.png)
 
 It will create a forecast around 15 minutes.
+
 Once it's done, we can now take a look at the prediction
 
 31. Click `Lookup Forecast`
