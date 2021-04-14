@@ -7,7 +7,6 @@ For current workshop, we are going to estimate demand forecast for weekly demand
 ### Agenda
 * [Setup S3 for Storing Data](docs/S3.md)
 * [Create Forecast using AWS Forecast](docs/Forecast.md)
-* [Create Forecast using AWS QuickSight](docs/QuickSight.md)
 
 ### Prerequisites
 * AWS Account
