@@ -59,7 +59,7 @@ On forecasting domain, each of the options only affecting the data schema, and n
 This process might take around 15 minutes to process.
 
 Continue to Next Section of presentation
----
+<hr />
 
 Once it's ready, it will display the `Active` status.
     ![](../Image/Forecast/19-2.png)
@@ -86,7 +86,7 @@ There is an option called `AutoML` meaning that it will try for every algorithm 
 This process might take around 15 minutes to process.
 
 Continue to Next Section of presentation
----
+<hr />
 
 Once it's done, we need to create the forecasts.
 
@@ -102,7 +102,7 @@ Once it's done, we need to create the forecasts.
 It will create a forecast around 15 minutes.
 
 Continue to Next Section of presentation
----
+<hr />
 
 Once it's done, we can now take a look at the prediction
 
